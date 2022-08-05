@@ -25,6 +25,9 @@ For the backend I used Express along
 * mongoose for database
 * mvc design pattern without views ( i don't need views bcuz i used react XD )
 
+# Features 
+Basic CRUD posts with like, comment functions.
+
 # Thanks for reading
 
 Let me know if you want to create a project together, I'm also looking for people to code any projects.
